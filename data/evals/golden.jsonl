@@ -1,0 +1,10 @@
+{"id":"q01","question":"What should I inspect when checkout returns 503 and the pods look healthy?","expected_sources":["runbooks/checkout-http-503.md","postmortems/2026-06-checkout-selector.md"]}
+{"id":"q02","question":"How should we mitigate a payment retry storm?","expected_sources":["runbooks/payment-retry-storm.md"]}
+{"id":"q03","question":"Why did payment attempts multiply during the April incident?","expected_sources":["postmortems/2026-04-payment-retry-storm.md"]}
+{"id":"q04","question":"Who owns authorization idempotency and retry policy?","expected_sources":["architecture/service-ownership.md"]}
+{"id":"q05","question":"What customer impact qualifies as P1?","expected_sources":["policies/incident-severity.md"]}
+{"id":"q06","question":"When is human approval required during an incident?","expected_sources":["policies/escalation.md"]}
+{"id":"q07","question":"Can scaling more application replicas make database connection exhaustion worse?","expected_sources":["runbooks/database-pool-exhaustion.md"]}
+{"id":"q08","question":"Should we disable TLS verification to recover from an expired certificate?","expected_sources":["runbooks/certificate-expiry.md"]}
+{"id":"q09","question":"Which service performs card authorization?","expected_sources":["architecture/platform-overview.md","architecture/service-ownership.md"]}
+{"id":"q10","question":"What verifies recovery after checkout 503 errors?","expected_sources":["runbooks/checkout-http-503.md"]}

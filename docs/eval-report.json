@@ -1,0 +1,138 @@
+{
+  "cases": 10,
+  "hit_rate_at_5": 1.0,
+  "mrr": 1.0,
+  "passed": true,
+  "outcomes": [
+    {
+      "id": "q01",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 531.94,
+      "retrieved": [
+        "postmortems/2026-06-checkout-selector.md",
+        "runbooks/checkout-http-503.md",
+        "runbooks/checkout-http-503.md",
+        "postmortems/2026-06-checkout-selector.md",
+        "kubernetes/health-probes.md"
+      ]
+    },
+    {
+      "id": "q02",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 130.32,
+      "retrieved": [
+        "runbooks/payment-retry-storm.md",
+        "runbooks/payment-retry-storm.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "architecture/platform-overview.md"
+      ]
+    },
+    {
+      "id": "q03",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 136.58,
+      "retrieved": [
+        "postmortems/2026-04-payment-retry-storm.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "architecture/service-ownership.md",
+        "runbooks/payment-retry-storm.md"
+      ]
+    },
+    {
+      "id": "q04",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 103.27,
+      "retrieved": [
+        "architecture/service-ownership.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "runbooks/payment-retry-storm.md",
+        "runbooks/payment-retry-storm.md"
+      ]
+    },
+    {
+      "id": "q05",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 72.82,
+      "retrieved": [
+        "policies/incident-severity.md",
+        "runbooks/payment-retry-storm.md",
+        "policies/incident-severity.md",
+        "policies/escalation.md",
+        "policies/escalation.md"
+      ]
+    },
+    {
+      "id": "q06",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 320.87,
+      "retrieved": [
+        "policies/escalation.md",
+        "policies/escalation.md",
+        "policies/escalation.md",
+        "architecture/service-ownership.md",
+        "policies/escalation.md"
+      ]
+    },
+    {
+      "id": "q07",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 318.48,
+      "retrieved": [
+        "runbooks/database-pool-exhaustion.md",
+        "runbooks/database-pool-exhaustion.md",
+        "runbooks/database-pool-exhaustion.md",
+        "runbooks/database-pool-exhaustion.md",
+        "kubernetes/pod-lifecycle.md"
+      ]
+    },
+    {
+      "id": "q08",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 358.47,
+      "retrieved": [
+        "runbooks/certificate-expiry.md",
+        "runbooks/certificate-expiry.md",
+        "kubernetes/health-probes.md",
+        "runbooks/certificate-expiry.md",
+        "kubernetes/services.md"
+      ]
+    },
+    {
+      "id": "q09",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 276.21,
+      "retrieved": [
+        "architecture/platform-overview.md",
+        "runbooks/payment-retry-storm.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "architecture/service-ownership.md",
+        "postmortems/2026-04-payment-retry-storm.md"
+      ]
+    },
+    {
+      "id": "q10",
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0,
+      "latency_ms": 125.32,
+      "retrieved": [
+        "runbooks/checkout-http-503.md",
+        "postmortems/2026-06-checkout-selector.md",
+        "postmortems/2026-04-payment-retry-storm.md",
+        "runbooks/checkout-http-503.md",
+        "runbooks/payment-retry-storm.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "repository": "https://github.com/kubernetes/website",
+  "license": "CC-BY-4.0",
+  "documents": [
+    {
+      "local_path": "data/documents/kubernetes/debug-running-pod.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-application/debug-running-pod.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-application/debug-running-pod.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "ec96ce1a6c370020a9162cae98aba5b1a04113365815613ecdb1f658cfa2e08f",
+      "retrieved_at": "2026-10-30T21:54:16.026041+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/debug-service.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-application/debug-service.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-application/debug-service.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "76915e474e88fbedecbfe205fb45a85867ea4612453358eda73a330ec991262d",
+      "retrieved_at": "2026-10-30T21:54:16.645013+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/determine-pod-failure.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-application/determine-reason-pod-failure.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-application/determine-reason-pod-failure.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "b43a3dad47d2428042e5a5d2b32c586fa1b0504cdcdfd9513874b8bfce35f57d",
+      "retrieved_at": "2026-10-30T21:54:17.226429+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/debug-cluster.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-cluster/_index.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/debug/debug-cluster/_index.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "ebf219562d6b8375f375809300447220b4c027bc404914cd14f2dfd77f9cb4e0",
+      "retrieved_at": "2026-10-30T21:54:18.034884+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/observability.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/cluster-administration/observability.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/cluster-administration/observability.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "d553e138441c14e2f7f39574d412bb00f712b8ad404889a0009b4c777169085d",
+      "retrieved_at": "2026-10-30T21:54:18.428807+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/logging-architecture.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/cluster-administration/logging.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/cluster-administration/logging.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "4bdb32d8092f2dc70cd951ce64a82386f6fb4561dc9637e73a1ec8aa4afaca5b",
+      "retrieved_at": "2026-10-30T21:54:18.844328+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/pod-lifecycle.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/workloads/pods/pod-lifecycle.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/workloads/pods/pod-lifecycle.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "1d81a56b63aa75e10d3cea41978420da7c046027a143c56852f6698ff5e6623c",
+      "retrieved_at": "2026-10-30T21:54:19.271238+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/services.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/services-networking/service.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/concepts/services-networking/service.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "6d014ced1fe171abbea82556cecac6601333fe27ffa834aff1c3d5d6246a5398",
+      "retrieved_at": "2026-10-30T21:54:19.638146+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    },
+    {
+      "local_path": "data/documents/kubernetes/health-probes.md",
+      "source_url": "https://github.com/kubernetes/website/blob/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes.md",
+      "raw_url": "https://raw.githubusercontent.com/kubernetes/website/96dc460e7f82a376d33fa1f11437fe6175c65c1a/content/en/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes.md",
+      "license": "CC-BY-4.0",
+      "content_sha256": "bf80ca8ec4ffa9c71c06a11c515dcb34f18132b4cbe52896b5acd9b5989c6c0c",
+      "retrieved_at": "2026-10-30T21:54:19.976220+00:00",
+      "upstream_ref": "96dc460e7f82a376d33fa1f11437fe6175c65c1a"
+    }
+  ],
+  "failures": []
+}
